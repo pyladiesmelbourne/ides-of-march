@@ -29,7 +29,14 @@ https://www.jetbrains.com/research/python-developers-survey-2018/
 
 1. **PyCharm** is the most popular IDE - 35% combined share for PyCharm Professional and Community editions.
 1. **Visual Studio Code** is rapidly growing in popularity, and is now the second most popular IDE.
-1. **Web developers have slightly different editor preferences from data scientists.** Web devs prefer PyCharm, VS Code, Vim, and Sublime text much more than data scientists do, while many data scientists prefer Jupyter Notebook as their primary tool.
+
+https://www.jetbrains.com/research/python-developers-survey-2018/
+
+---
+### Survey Results
+#### Key takeaways
+
+**Web developers have slightly different editor preferences from data scientists.** Web devs prefer PyCharm, VS Code, Vim, and Sublime text much more than data scientists do, while many data scientists prefer Jupyter Notebook as their primary tool.
 
 https://www.jetbrains.com/research/python-developers-survey-2018/
 
@@ -41,7 +48,7 @@ https://www.jetbrains.com/research/python-developers-survey-2018/
 https://www.jetbrains.com/research/python-developers-survey-2018/
 
 ---
-## What do developers want in an IDE?
+## What do we want in an IDE?
 
 ### Most popular features
 
@@ -54,20 +61,19 @@ https://www.jetbrains.com/research/python-developers-survey-2018/
 https://www.jetbrains.com/research/python-developers-survey-2018/
 
 ---
-## What do developers want in an IDE?
+## What do we want in an IDE?
 
 ### Also popular
 
 * SQL databases
 * debugging
 * code linting
-
-... also, type hinting is growing in popularity. It's now as common as continuous integration in python development.
+* ... also type hinting is now as popular as CI
 
 https://www.jetbrains.com/research/python-developers-survey-2018/
 
 ---
-## What features do developers want?
+## What do we want in an IDE?
 ### Least used features
 
 * NoSQL databases
@@ -78,6 +84,8 @@ https://www.jetbrains.com/research/python-developers-survey-2018/
 
 ---
 ## Comparison table
+
+https://github.com/pyladiesmelbourne/ides-of-march/blob/master/comparison.md
 
 | Feature  | VS code | Pycharm | Atom | Spyder | ViM | Sublime | Notepad++ |
 | --- | --- | --- | --- | --- | --- | -- | -- |

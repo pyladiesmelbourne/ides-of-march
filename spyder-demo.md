@@ -110,7 +110,7 @@ cover-xml=1
 ```
 
 Create a new file in XKCD-password-generator directory, `.coveragerc`
-```
+```ini
 [report]
 show_missing = True
 ```

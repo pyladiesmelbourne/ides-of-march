@@ -20,7 +20,7 @@ Note that normally I'd use conda envs, but this demo was asking about virtualenv
 ```shell
 pip install virtualenv
 virtualenv ~/envs/xkcd
-~/envs/xkcd/bin/activate
+source ~/envs/xkcd/bin/activate
 pip install pytest
 pip install pytest-cov
 pip install pylint
@@ -28,7 +28,7 @@ pip install pylint
 
 ## Get the IDE and install the Python extension
 
-Note that if you are using Anaconda, VS Code is installed at the final step.
+Note that if you are using Anaconda, VS Code is installed at the final step of its installation process.
 
 Install VS code, and run it
 

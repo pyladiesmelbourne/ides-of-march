@@ -126,7 +126,7 @@ The IDE smackdown listed this as areas to cover in the "competition".
 
 * [x]  Open the codebase in the IDE (configure virtualenv if needed)
 * [x]  Open a file (say main.py), show syntax highlighting
-* [x]  Show code autocomplete
+* [x]  Show code autocomplete e.g. `os.path.isfile`
 * [x]  Refactoring - rename a variable (context menu > rename symbol or F2)
 * [x]  Jump to function/method definition (Go menu, context menu, ...)
 * [x]  Show git blame for a file (Extension: gitlens)

@@ -20,5 +20,6 @@
 | **Find references** | Yes | Yes | ? | No | Yes (shift+3 or Shift+8) | ? | ? |
 | **Go to definition** | Yes | Yes | Yes | Yes | Yes, with plugin and ctags | Yes, with plugin | Yes, with plugin |
 
-[ViM with ctags](https://andrew.stwrt.ca/posts/vim-ctags/)
-[Spyder unittest](https://www.spyder-ide.org/blog/introducing-unittest-plugin/)
+See also:
+* [ViM with ctags](https://andrew.stwrt.ca/posts/vim-ctags/)
+* [Spyder unittest](https://www.spyder-ide.org/blog/introducing-unittest-plugin/)

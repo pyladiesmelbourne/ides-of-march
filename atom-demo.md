@@ -54,7 +54,7 @@ Find/Replace in Project.
 
 ## Run the code
 
-[atom-python-run] `f5`
+[script-runner] Run.
 
 ## Run the tests
 

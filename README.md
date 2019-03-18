@@ -10,7 +10,7 @@ Demo showdown to find one Python editor (or Integrated Development Environment) 
 
 ## Demos
 
-* [VS Code](vs-code-demo.md]
+* [VS Code](vs-code-demo.md)
 * [PyCharm](pycharm-demo.md)
 * [Atom](atom-demo.md)
 * [Spyder](spyder-demo.md)

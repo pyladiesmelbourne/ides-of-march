@@ -1,7 +1,6 @@
 # Atom demo
 
-Here's a quick demo of using some of the functionality that Atom has for
-Python development, by a long-time Atom and vi(m) user and Python newbie. This demo mostly uses Atom's core editor functionality (with some packages) and not packages that implement IDE features.
+Here's a demo of some of the functionality that Atom has for Python development, by a long-time Atom and vi(m) user and Python newbie. This demo mostly uses Atom's core editor functionality (with some packages), not the full-blown [Atom IDE](https://ide.atom.io/) which [requires Python language server](https://atom.io/packages/ide-python).
 
 [Atom](https://atom.io/) was built by GitHub using the [Electron](https://electronjs.org/) framework which also powers VS Code and some other apps you may have heard of/used.
 
@@ -17,12 +16,12 @@ Commands are run from the main or contextual menus, from the command palette (`c
 
 [language-python](https://atom.io/packages/language-python) is a default package. We may also want the following:
 
-* [atom-python-run](https://atom.io/packages/atom-python-run)
-* [atom-python-test](https://atom.io/packages/atom-python-test)
+* [atom-python-test](https://atom.io/packages/atom-python-test) -- requires `py.test`
 * [autocomplete-python](https://atom.io/packages/autocomplete-python)
 * [git-blame](https://atom.io/packages/git-blame)
-* [linter-python](https://atom.io/packages/linter-python) (requires `pylama`)
-* [python-tools](https://atom.io/packages/python-tools)
+* [linter-python](https://atom.io/packages/linter-python) -- requires `pylama`
+* [python-tools](https://atom.io/packages/python-tools) -- useful for refactoring
+* [script-runner](https://atom.io/packages/script-runner) -- run scripts in python and various other scripting languages, output to Atom console
 
 ## Open the codebase in the IDE (configure virtualenv if needed)
 
